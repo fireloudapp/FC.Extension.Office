@@ -30,7 +30,6 @@ namespace FC.Extension.Office.Test.ExcelHanders
             {
                 _output.WriteLine($"Rows {dt.Rows.Count} Column { dt.Columns.Count }");
             }
-
         }
     }
 }
