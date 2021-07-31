@@ -3,9 +3,11 @@
 
 [![Version](https://img.shields.io/nuget/v/FC.Extension.Office.svg)](https://www.nuget.org/packages/FC.Extension.Office/)
 [![Downloads](https://img.shields.io/nuget/dt/FC.Extension.Office.svg)](https://www.nuget.org/packages/FC.Extension.Office/)
+[![Build Status](https://tfsversioncontrol.visualstudio.com/FireCloud%20Service/_apis/build/status/Seed-Library/Extension/Main/FC.Extension.Office-%20Main%20Branch%20-%20Release%20Package?branchName=main)](https://tfsversioncontrol.visualstudio.com/FireCloud%20Service/_build/latest?definitionId=16&branchName=main)
 
 
-✅ **Project status: active**.
+
+✅ **Project status: active**
 
 FC.Extension.Office is a library which adds reduces the coding effort for the development team in terms of handling Excel, Document, PPT all basic functionality. You may required literally a single line of code to handle the day to day operation.
 
